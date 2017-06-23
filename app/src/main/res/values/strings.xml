@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BancoSuperSeguro</string>
+    <string name="digite_cpf">Digite seu CPF</string>
+    <string name="digite_conta">Digite sua conta</string>
+    <string name="acessar">Acessar</string>
+    <string name="admin">Entrar como administrador</string>
+    <string name="criar_cliente">Criar cliente</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="extrato">Extrato</string>
+    <string name="saldo">Saldo</string>
+    <string name="saque">Saque</string>
+    <string name="valor_saque">Insira valor a ser sacado</string>
+    <string name="botao_saque">Realizar saque</string>
+    <string name="cancelar_saque">Cancelar saque</string>
+    <string name="transferencia">Transferência</string>
+    <string name="valor_transferencia">Insira valor a ser transferido</string>
+    <string name="conta_transferencia">Insira a conta a transferir</string>
+    <string name="botao_transferencia">Realizar transferência</string>
+    <string name="cancelar_transferencia">Cancelar transferência</string>
+    <string name="voltar">Voltar</string>
+    <string name="sair">Sair</string>
+</resources>
